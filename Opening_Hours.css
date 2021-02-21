@@ -1,0 +1,63 @@
+<html>
+<title>Front.CSS</title>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+<head>
+<style>
+body {
+    background-image: url("Background.jpg");
+	border-left: 10px solid;
+	border-right: 10px solid;
+	border-top: 10px solid;
+	border-bottom: 10px solid;
+	margin-left: 20px;
+	margin-top: 20px;
+	margin-right: 20px;
+	margin-bottom: 20px;
+	padding-top: 10px;
+	padding-right: 10px;
+	padding-bottom: 10px;
+	padding-left: 10px;
+	background-size: 100% 100%;
+}
+h1 {
+    color: blue;
+    font-family: verdana;
+    font-size: 25;
+	align: center;
+}
+p  {
+    color: black;
+    font-family: courier;
+    font-size: 15;
+	font-weight: bold
+	margin-left: 30px;
+	align: center;
+}
+p1  {
+    color: black;
+    font-family: courier;
+	font-weight:bold;
+    font-size: 15;
+	margin-left: 30px;
+	align: left;
+}
+
+	
+</style>
+</head>
+<body>
+<div class="w3-bar w3-border w3-light-grey">
+  <a href="Main.html" class="w3-bar-item w3-button w3-green">Home</a>
+</div>
+<h1>PAPER KRAFT
+<img src="Logo.png" width="50" height="50" margin="1px solid; margin-color:white;"></h1>
+
+<p>____Opening Hours____</p>
+<p1>Mon - Thur : 10:00am to 4:00pm<p1><br>
+<p1>Fri        : 10:00am to 1:00pm, 2:00pm to 6:00pm</p1><br>
+<p1>Sat        : 8:00am to 4:00pm</p1><br>
+<p1>Sun        : Closed</p1><br>
+<p1>Public Holidays: Closed</p1><br>
+</div>
+</html>

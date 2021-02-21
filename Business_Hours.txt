@@ -1,0 +1,13 @@
+Business
+------------
+PaperKraft is a sole-proprietor with a proper shop front. They have three main types of products such as Art diary, Artist Trading Cards and Paper structure. 
+
+
+Opening Hours:
+--------------
+
+Mon - Thur : 10:00am to 4:00pm
+Fri        : 10:00am to 1:00pm, 2:00pm to 6:00pm
+Sat        : 8:00am to 4:00pm
+Sun        : Closed
+Public Holidays: Closed

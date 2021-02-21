@@ -1,0 +1,115 @@
+<html>
+<title>Front.CSS</title>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+<head>
+<style>
+body {
+    background-image: url("a.jpg");
+	border-left: 10px solid;
+	border-right: 10px solid;
+	border-top: 10px solid;
+	border-bottom: 10px solid;
+	margin-left: 20px;
+	margin-top: 20px;
+	margin-right: 20px;
+	margin-bottom: 20px;
+	padding-top: 10px;
+	padding-right: 10px;
+	padding-bottom: 10px;
+	padding-left: 10px;
+	background-size: 100% 100%;
+}
+h1 {
+    color: blue;
+    font-family: verdana;
+    font-size: 25;
+	align: center;
+}
+h5 {
+    color: black;
+    font-family: verdana;
+    font-size: 15;
+	align: center;
+}
+p  {
+    color: white;
+    font-family: courier;
+    font-size: 15;
+	font-weight: bold
+	margin-left: 30px;
+	align: center;
+}
+p1  {
+    color: white;
+    font-family: courier;
+	font-weight:bold;
+    font-size: 15
+	margin-left: 30px;
+	align: left;
+}
+
+	
+</style>
+</head>
+<body>
+<div class="w3-bar w3-border w3-light-grey">
+  <a href="Main.html" class="w3-bar-item w3-button w3-green">Home</a>
+</div>
+<h1>PAPER KRAFT
+<img src="Logo.png" width="50" height="50" margin="1px solid; margin-color:white;"></h1>
+<div style="background-color:gray;width:100px;padding:1px;"><p>ART DIARY</p></div>
+<div class="w3-container w3-teal">
+</div>
+<div class="w3-row-padding w3-margin-top">
+  <div class="w3-third">
+    <div class="w3-card">
+	<h5>AD1-Art Design
+      <img src="AD1.jpg" style="width:100px; height:100px;"></h5>
+	  <div class="w3-container
+    </div>
+  </div>
+  <div class="w3-third">
+    <div class="w3-card">
+	<h5>AD2-Artist
+      <img src="AD2.jpg" style="width:100px; height:100px;"></h5>
+      <div class="w3-container">
+      </div>
+    </div>
+  </div>
+
+  <div class="w3-third">
+    <div class="w3-card">
+	<h5>AD3-Feather
+      <img src="AD3.jpg" style="width:100px; height:100px;"></h5>
+      <div class="w3-container
+	  </div>
+  </div>
+</div>
+
+<div class="w3-row-padding w3-margin-bottom">
+  <div class="w3-third">
+    <div class="w3-card">
+	<h5>AD4-Ideas
+      <img src="AD4.jpg" style="width:100px; height:100px;"></h5>
+	  <div class="w3-container
+     </div>
+	</div>
+</div>
+  <div class="w3-third">
+    <div class="w3-card">
+	<h5>AD5-Relax
+      <img src="AD5.jpg" style="width:100px; height:100px;"></h5>
+	  <div class="w3-container
+      </div>
+	 </div>
+  </div>
+<div class="w3-third">
+    <div class="w3-card">
+	<h5>AD6-Relax
+      <img src="AD6.jpg" style="width:100px; height:10px;"></h5>
+	  <div class="w3-container
+    </div>
+  </div>
+</div>
+</html>

@@ -1,0 +1,22 @@
+Art_Diary
+-------------
+AD1 - Art Design
+AD2 - Artist
+AD3 - Feather
+AD4 - Ideas
+AD5 - Relax
+
+Artist_Trading_Cards
+--------------
+ATC1 - Blog
+ATC2 - Coloriage
+ATC3 - Therapy
+ATC4 - Tiles
+ATC5 - Wolf
+
+Paper_Structure
+---------
+PS1 - Cool 3D
+PS2 - Forward Fold
+PS3 - MA Process
+PS4 - Spherical
