@@ -46,6 +46,3 @@ There are many tools and techniques to do the above process. Google chrome simul
 •	Laptop
 •	iPad
 •	Desktop(1024x768pixels)
-
-Quick start
-1. 
